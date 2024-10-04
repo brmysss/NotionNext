@@ -53,9 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://okjk.co/UvLw5s',
   HEO_INFO_CARD_ICON2: 'fa-solid fa-link',
   HEO_INFO_CARD_URL3: 'https://www.zhihu.com/people/bai-ri-meng-yu-shi-76',
-  HEO_INFO_CARD_ICON3: 'fa-brands fa-zhihu',
-  HEO_INFO_CARD_URL4: 'https://www.brmys.top/',
-  HEO_INFO_CARD_TEXT4: '了解更多',
+  HEO_INFO_CARD_TEXT3: '访问知乎',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
