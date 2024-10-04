@@ -47,10 +47,10 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.brmys.top/',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL1: 'https://weibo.com/u/6462877353',
+  HEO_INFO_CARD_ICON1: 'fa-brands fa-weibo',
+  HEO_INFO_CARD_URL2: 'https://okjk.co/UvLw5s',
+  HEO_INFO_CARD_ICON2: 'fa-solid fa-link',
   HEO_INFO_CARD_URL3: 'https://www.brmys.top/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
