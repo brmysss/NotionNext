@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.notion.so/brmys1/274f8df8c17c43ebad4963e21a1abe58',
+  HEO_SOCIAL_CARD_URL: 'https://www.brmys.ac.cn/274f8df8-c17c-43eb-ad49-63e21a1abe58',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
